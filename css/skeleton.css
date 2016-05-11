@@ -204,23 +204,6 @@ input[type="button"]:focus {
 button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
-input[type="button"].button-primary {
-  color: #FFF;
-  background-color: #33C3F0;
-  border-color: #33C3F0; }
-.button.button-primary:hover,
-button.button-primary:hover,
-input[type="submit"].button-primary:hover,
-input[type="reset"].button-primary:hover,
-input[type="button"].button-primary:hover,
-.button.button-primary:focus,
-button.button-primary:focus,
-input[type="submit"].button-primary:focus,
-input[type="reset"].button-primary:focus,
-input[type="button"].button-primary:focus {
-  color: #FFF;
-  background-color: #1e7b1e;
-  border-color: #1e7b1e; }
 
 
 /* Forms
@@ -249,10 +232,6 @@ input[type="text"],
 input[type="tel"],
 input[type="url"],
 input[type="password"],
-textarea {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none; }
 textarea {
   min-height: 65px;
   padding-top: 6px;
