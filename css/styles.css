@@ -18,7 +18,9 @@ img {
     height: auto;
     vertical-align: bottom;
   }
-
+.padding-top {
+  margin-top: 30px;
+}
 .green {
   color: #1e7b1e;
 }
