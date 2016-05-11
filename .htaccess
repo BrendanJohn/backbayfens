@@ -1,0 +1,18 @@
+#Custom Error Handling/Direct to page not found 404
+ErrorDocument 404 /~bmurphy/404.html
+
+#Expiration Headers for all linked files
+ExpiresActive On
+	#7 days
+	ExpiresByType text/css A604800
+	ExpiresByType application/javascript A604800
+	ExpiresByType image/jpeg A604800
+	ExpiresByType image/gif A604800
+	ExpiresByType image/png A604800
+
+#Output Filters for Compression
+	AddOutputFilterByType DEFLATE text/html
+	AddOutputFilterByType DEFLATE text/css
+	AddOutputFilterByType DEFLATE text/javascript
+	AddOutputFilterByType DEFLATE application/javascript
+
