@@ -7,7 +7,7 @@ N/A at this time
 Final project for CSCI E-12 Fundamentals of Website Development
 
 ## Demo
-N/A at this time
+<http://screencast.com/t/WlakufVG9xLg>
 
 
 ## Libraries
