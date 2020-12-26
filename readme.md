@@ -1,7 +1,7 @@
 # Back Bay Fens
 
 ## Temporary Live URL
-N/A at this time
+http://brendanjohn.github.io/backbayfens/
 
 ## Description
 Final project for CSCI E-12 Fundamentals of Website Development
